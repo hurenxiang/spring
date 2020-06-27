@@ -9,3 +9,5 @@ git rm 文件名；删除文件
 
 
 git clone 远程仓库地址；下载代码
+
+git push；同步到远程仓库
