@@ -1,3 +1,6 @@
+##url = https://github.com/hurenxiang/spring.git；当没有权限登录时
+##可以修改为url = https://用户名:密码@github.com/hurenxiang/spring.git
+
 git status；查看暂存区信息
 git config --list；查看git仓库配置信息
 git config --global user.name '设置用户名配置';
