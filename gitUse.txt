@@ -1,0 +1,11 @@
+git status；查看暂存区信息
+git config --list；查看git仓库配置信息
+git config --global user.name '设置用户名配置';
+git config --global user.email '设置邮箱配置';
+
+git add 文件名；添加到暂存区
+git commit -m '备注信息'；提交到本地仓库
+git rm 文件名；删除文件
+
+
+git clone 远程仓库地址；下载代码
